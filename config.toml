@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
-theme = "https://github.com/panr/hugo-theme-terminal"
+theme = "https://github.com/apvarun/digital-garden-hugo-theme.git"
 title = "Hugo Northendlab Forestry starter"
 [[menu.footer]]
 URL = "contact"
