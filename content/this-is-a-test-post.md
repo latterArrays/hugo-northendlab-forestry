@@ -3,7 +3,6 @@ author = "This AI generatred guy"
 categories = []
 date = 2022-02-18T19:36:18Z
 description = "Or is this guy real? "
-draft = true
 image = "/images/author/john-doe.jpg"
 title = "This is a test post"
 type = "post"
